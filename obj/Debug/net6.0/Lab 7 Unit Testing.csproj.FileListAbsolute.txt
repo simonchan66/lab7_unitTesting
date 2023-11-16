@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Lab 7 Unit Testing\obj\Debug\net6.0\Lab 7 Unit Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Lab 7 Unit Testing\obj\Debug\net6.0\Lab 7 Unit Testing.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Lab 7 Unit Testing\obj\Debug\net6.0\Lab 7 Unit Testing.AssemblyInfo.cs
+C:\Users\user\source\repos\Lab 7 Unit Testing\obj\Debug\net6.0\Lab 7 Unit Testing.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab 7 Unit Testing\bin\Debug\net6.0\Lab 7 Unit Testing.exe
+C:\Users\user\source\repos\Lab 7 Unit Testing\bin\Debug\net6.0\Lab 7 Unit Testing.deps.json
+C:\Users\user\source\repos\Lab 7 Unit Testing\bin\Debug\net6.0\Lab 7 Unit Testing.runtimeconfig.json
+C:\Users\user\source\repos\Lab 7 Unit Testing\bin\Debug\net6.0\Lab 7 Unit Testing.dll
+C:\Users\user\source\repos\Lab 7 Unit Testing\bin\Debug\net6.0\Lab 7 Unit Testing.pdb
+C:\Users\user\source\repos\Lab 7 Unit Testing\obj\Debug\net6.0\Lab 7 Unit Testing.dll
+C:\Users\user\source\repos\Lab 7 Unit Testing\obj\Debug\net6.0\refint\Lab 7 Unit Testing.dll
+C:\Users\user\source\repos\Lab 7 Unit Testing\obj\Debug\net6.0\Lab 7 Unit Testing.pdb
+C:\Users\user\source\repos\Lab 7 Unit Testing\obj\Debug\net6.0\Lab 7 Unit Testing.genruntimeconfig.cache
+C:\Users\user\source\repos\Lab 7 Unit Testing\obj\Debug\net6.0\ref\Lab 7 Unit Testing.dll
